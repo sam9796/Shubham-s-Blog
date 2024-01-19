@@ -1,5 +1,5 @@
 ---
-title: 'The Power of React Hooks'
+title: 'React Hooks'
 date: '2024-01-19'
 ---
 
