@@ -14,6 +14,8 @@ Welcome to the repository for a blog website built with Next.js and TypeScript. 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/blog-website.git
-   cd blog-website
+   git clone https://github.com/sam9796/Shubham-s-Blog.git
+   cd Shubham-s-Blog
+   npm install
+   npm run dev
 
